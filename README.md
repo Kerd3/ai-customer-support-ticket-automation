@@ -4,7 +4,6 @@ An end-to-end AI-assisted customer support workflow built with **n8n, Gmail, Gro
 
 The workflow receives customer support emails from Gmail, normalizes the message, detects duplicate submissions, classifies the ticket with an LLM, validates the structured AI output, creates and assigns a support ticket, escalates high/critical tickets to Slack, drafts a customer response, requires human approval, sends the approved reply through Gmail, and records the ticket lifecycle in an audit trail.
 
-> **Screenshot note:** Some evidence screenshots contain personal names or email addresses from test runs. They are included here exactly as captured for organization. Before making the repository public, manually redact those fields as planned.
 
 ## What It Demonstrates
 
